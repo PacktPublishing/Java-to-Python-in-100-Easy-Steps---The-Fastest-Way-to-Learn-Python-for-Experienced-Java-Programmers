@@ -1,25 +1,49 @@
 # Java to Python in 100 Easy Steps - The Fastest Way to Learn Python for Experienced Java Programmers [Video]
 This is the code repository for [Java to Python in 100 Easy Steps - The Fastest Way to Learn Python for Experienced Java Programmers [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-bayesian-methods-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347692), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
-## About the Video Course
-This course will help you learn Python, one of the most popular programming languages. Python offers both object oriented and structural programming features. We take a hands-on approach using a combination of Python Shell and PyCharm as an IDE to illustrate more than 100 Python coding exercises, puzzles, and code examples. We convert a number of Java examples to Python. You will learn about implementing Object Oriented Programming concepts in Python, inheritance, abstract classes, and constructors; you will also get a better understanding of a wide variety of Python data structures: lists, sets, dictionaries, and tuples.
 
-<H2>What You Will Learn</H2>
-<DIV class=book-info-will-learn-text>
-<UL>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Essential DevOps concepts and how tool-chains fit together.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Collaborate, feel confident about experimenting with your code, and isolate changes with Git source control.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Create unit tests and use test-driven development, so that your code will never make the same mistake twice.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Deploy an automated build process to get your application changes into production faster.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Drastically improve the quality of your software by understanding the value of bringing development and operations together.</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Build a highly available and fully scalable application environment in code.</SPAN> </LI></UL></DIV>
 
-## Instructions and Navigation
-### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
-This course is designed for experienced Java Programmers; no prior knowledge of Python is required.
-### Technical Requirements
-This course has the following software requirements:<br/>
-NA
+## Introduction To Course
+
+We love Programming. And we love programming in a variety of languages.
+
+Python is one of the most popular programming languages. Python offers both object oriented and structural programming features. Learning Python can be an awesome experience. 
+
+If you have prior experience with Java, why do you need to start from zero. Why not use your Java knowledge and help you learn Python by comparing and contrasting with Python?
+
+We take an hands-on approach using a combination of Python Shell and PyCharm as an IDE to illustrate more than 100 Python Coding Exercises, Puzzles and Code Examples.  We convert a number of Java Examples to Python.
+
+In about 100 Steps, we explore the most important Python Programming Language Features
+- Basics of Python Programming - Expressions, Variables and Printing Output
+- Python Conditionals and If Statement
+- Methods - Parameters, Arguments and Return Values
+- Object Oriented Programming - Class, Object, State and Behavior
+- Basics of OOPS - Encapsulation, Inheritance and Abstract Class.
+- Basics about Python Data Types
+- Basics about Python Built in Modules
+- Conditionals with Python - If Else Statement,  Nested If Else
+- Loops - For Loop, While Loop in Python, Break and Continue
+- Immutablity of Python Basic Types
+- Python Data Structures - List, Set, Dictionary and Tuples
+- Basics of Designing a Class - Class, Object, State and Behavior. Deciding State and Constructors. 
+- Introduction to Exception Handling - try, except, else and finally. Exception Hierarchy. Throwing an Exception. Creating and Throwing a Custom Exception.
+
+## What You will learn
+- You will learn how to think as a Python Programmer
+- You will learn how to start your journey as a Python Programmer
+- You will learn to develop awesome object oriented programs with Python
+- You will solve a wide variety of hands-on exercises on the topics discussed below
+- You will learn about implementing Object Oriented Programming Concepts in Python- Inheritance, Abstract Class and Constructors
+- You will learn about a wide variety of Python Data Structures - List, Set, Dictionary and Tuples
+
+## Requirements
+- Connectivity to Internet to download Python 3 and PyCharm.
+- We will help you install Python 3 and PyCharm.
+- We use Eclipe Oxygen to run Java 8 Examples.
+- We expect you to be an experienced Java Programmer
+
+
+### Troubleshooting
+- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
 
 ## Related Products
 * [Python Programming for Beginners - Learn in 100 Easy Steps [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-bayesian-methods-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347692)
